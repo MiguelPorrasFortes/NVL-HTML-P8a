@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>HTML: Examples of Inline and Block elements</title>
+  </head>
+  <body>
+    <h1>HTML: Examples of Inline and Block elements</h1>
+    <p>Examples of <strong>Inline Elements</strong> (Strong tags is already one by the way)in HTML are 
+    <em>emphasis tags</em>, <a href="http://www.google.com"> anchors </a> or images <img src="https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678110-sign-info-128.png" alt="i"></p>
+    <p>Meanwhile, examples of block elements are:<p>
+    <ol>
+      <li>Lists</li>
+      <li><h1> Headings</h1></li>     
+      <li> or <strong>Horizontals</strong></li>
+      <hr>
+      </ol>
+  </body>
+</html>
